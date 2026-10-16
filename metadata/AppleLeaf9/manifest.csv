@@ -1,0 +1,351 @@
+dataset,relative_path,split,shot,crop,category,binary_label,source_image_id,sha256,size_bytes,available_in_repository
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (113).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (113),312421d441394af1966f4c0acbd7718a414e1bc52b164dd1a161f6455a6c1bd0,24356,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (114).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (114),c28c926e09e17abf4fd83aa60261de1fbff35b2895e09e85623caffaf8e72659,26008,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (128).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (128),86f18c20f4f3a0fe4b210869b1c8967a13f13b25b3d22057e300e87c07609296,22907,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (134).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (134),e71f233f937fa5ca179bab3506ca4d98c030f3298982eedcc25b3fde448bf02a,23627,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (155).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (155),fb6a9c224d2bcd990f168e8a4afeab89f29de56af2b071a085892ef81473f6a2,49388,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (18).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (18),e696d3cd381dfd0d007e3b893f86a2f1ea5b0220fec775a7e62c2f64d1c4bf7f,51695,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (180).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (180),d36cf3102551a45f68c9b88c39ec1db0eabf6ff4d76641abc4b8ed712ecc6545,51604,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (19).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (19),b00b70a77268cade8d7857adfad0b74ff200edd953ba87fcc2fc50f7e536d59a,53059,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (192).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (192),7fd443c8f6aa0975a4b3d7ab8558ee05474f6497f93de1e424410b19b1cd20e5,25756,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (193).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (193),6236d045e04cfb416efdbea5d5d206bd51ef043b617dc72dfcc7fc467b62f22c,12717,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (200).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (200),1b263be159ce474a6782cc5a1e539b491438c717df99262f1e574710a8e20385,64232,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (211).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (211),378db81e92bec964ced1f3d7c7fc2a208cad6afc2be6afc7ea787f49a00b3c13,53125,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (234).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (234),a820dbc539e072043e4669272c57085ae2db0c201f97432c775343f2d6af83a2,54876,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (238).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (238),15ab22b0bf4c0e3ac3cea3b0c1dcd979a5ccd3696e3c43cc22f9500bb351e3b1,37422,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (316).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (316),fa6c6baf22ec628369a77a5e0d12e5980aaceda2bf36c96fd7b77278d3d11043,32957,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (32).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (32),32cb1434eabfb380d7d5b634bccdb56f953d51bdc2b5263dc93b85f048d764ad,56583,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (320).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (320),6c4d6877ae9ca229261209578d7966a6abacb4bbbc870a6b238f06c8ae565576,28750,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (325).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (325),cb0839431f8c6212837a12097606ae3dcb782f85382883d5ac3a96256447e0af,30140,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (327).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (327),7a467ccbdc02a583665ae6af33a37fb21513d346dc40cc9f91c8c4043b039bb9,31202,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (335).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (335),7f99541b0ae293103458da8b21f342a1ae4f528578ccfdd20dfda39dfebba54c,26311,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (34).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (34),7eb548d6f1d97822a359e9d9f90bbcf4994a18af9254665429a1d6c5af67c6f6,52531,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (345).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (345),46ffd16ee238a76cd14e8ee118251ef94b5aa4d5269a1e335213c29c6543a0a2,30980,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (385).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (385),79ad389f23277fba4c14c66fbb1bc1b55826592427ed79c89b3123f04cff92d6,22546,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (388).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (388),e4e621ce2046abc4c97f10ebcecaaad9fb4cad44278db23b29ac03ce516f93ab,25750,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (392).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (392),467be621bd067cc6b68b1f3881e3f39ae353dd450f0f032e355cec04f3885959,15378,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (42).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (42),24c51353fd66c26a47b51e68fdf5b97b506a14ea033523c08c216254a7d5aed6,53489,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (54).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (54),2597451d0706a71d183ba1299b408003c8d02dc0be2a11cc0b2a355e1723b24f,56037,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (64).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (64),45e8f28388befb50fe35d4abc3a90d556ad106a320efa88affe42c82d8ccd5e6,49380,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (82).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (82),f97b6a4abb5afb736a0715c85299aeda0a1f3198f969a75ddda0790fc558d4b8,58038,true
+AppleLeaf9,test/Alternaria leaf spot/Alternaria leaf spot (89).jpg,test,,Apple,Alternaria leaf spot,1,Alternaria leaf spot (89),6c26970277ac1e007b93b96346732796a3a0070ceea9afe4612c9900b731e9b8,52162,true
+AppleLeaf9,test/Brown spot/Brown spot (107).jpg,test,,Apple,Brown spot,1,Brown spot (107),dcef72a5040ca9b8b7999dea124636d469548940e7bb6eb511dd736777ebd7d0,22888,true
+AppleLeaf9,test/Brown spot/Brown spot (116).jpg,test,,Apple,Brown spot,1,Brown spot (116),2aabbc85b23cfbc7544d03dc822b4f14e98025fe91b75850912f2790b00253da,24329,true
+AppleLeaf9,test/Brown spot/Brown spot (16).jpg,test,,Apple,Brown spot,1,Brown spot (16),f82345571eef2b9bae20172bf9334d64472c7b0b7b8a6236a653fbc7c45660c3,36067,true
+AppleLeaf9,test/Brown spot/Brown spot (164).jpg,test,,Apple,Brown spot,1,Brown spot (164),90547f7ae25d7728f75c2a8b60f29300dbfa5c0cf5781fef29bf926acbc0915f,21847,true
+AppleLeaf9,test/Brown spot/Brown spot (168).jpg,test,,Apple,Brown spot,1,Brown spot (168),d678467b32f1acbe3aa187d8d2fc55c378366b9b728778c6b2d853e094beb4f3,28109,true
+AppleLeaf9,test/Brown spot/Brown spot (178).jpg,test,,Apple,Brown spot,1,Brown spot (178),25a453059078f803343749e68c420691fc1e12ae0c295e087484b1c64a52faca,17222,true
+AppleLeaf9,test/Brown spot/Brown spot (179).jpg,test,,Apple,Brown spot,1,Brown spot (179),a9e3ebc31f1b94d58b8085bfa88c6b9e90c44d7c503086908cf74d1195620d12,16597,true
+AppleLeaf9,test/Brown spot/Brown spot (183).jpg,test,,Apple,Brown spot,1,Brown spot (183),2a829df1dd06597e5ceba88e50114ee5966221ceb94312851438549141df6274,24384,true
+AppleLeaf9,test/Brown spot/Brown spot (187).jpg,test,,Apple,Brown spot,1,Brown spot (187),d1d2367090bce49c22f1313178cfc848cc9d8e6c8c4bf8d2d68a8d7a36f7210c,22631,true
+AppleLeaf9,test/Brown spot/Brown spot (189).jpg,test,,Apple,Brown spot,1,Brown spot (189),b5bd2934ae136dd9ec607139a6d926a7aff77cf059266519474b105362cae596,22402,true
+AppleLeaf9,test/Brown spot/Brown spot (217).jpg,test,,Apple,Brown spot,1,Brown spot (217),ee048b21a78c4c44f4ded5ab7dedb7896c268c3e30b799481bbdeffc572c8afd,17846,true
+AppleLeaf9,test/Brown spot/Brown spot (221).jpg,test,,Apple,Brown spot,1,Brown spot (221),28a00957e6ed5635c59147477165074cf767e66f54aa912033977431f6f2c163,19590,true
+AppleLeaf9,test/Brown spot/Brown spot (232).jpg,test,,Apple,Brown spot,1,Brown spot (232),fe8b62621f5c3503e79702834a0182fcee16e046c9dc63b64cbff8aab1b7e068,21595,true
+AppleLeaf9,test/Brown spot/Brown spot (238).jpg,test,,Apple,Brown spot,1,Brown spot (238),8ed4288cded903dcc9630cee3ddbbc6e0ddfb57ea21045c3a236c30d73c49e90,26162,true
+AppleLeaf9,test/Brown spot/Brown spot (262).jpg,test,,Apple,Brown spot,1,Brown spot (262),060f4865585df023f040115191d52476f4bba3e0d833c99262c45d1e3d015fbd,15309,true
+AppleLeaf9,test/Brown spot/Brown spot (265).jpg,test,,Apple,Brown spot,1,Brown spot (265),450064067f34d2a03fb3fd2c2458dfbbfbe57665c769a66213f45bca03334120,18875,true
+AppleLeaf9,test/Brown spot/Brown spot (288).jpg,test,,Apple,Brown spot,1,Brown spot (288),c4c2c8e23613f4955ffb3aa6cfa7b517812b8ab2f60d17df483d99b82f05cf77,19877,true
+AppleLeaf9,test/Brown spot/Brown spot (291).jpg,test,,Apple,Brown spot,1,Brown spot (291),fafe10cccef4bde68918b268afdafa4c36e305172eb461f59372cbe79b70bbb9,17475,true
+AppleLeaf9,test/Brown spot/Brown spot (295).jpg,test,,Apple,Brown spot,1,Brown spot (295),d683948df5c1a7a40946e3314d4d5ba913fdc4e31cac8894adb21d7709e01428,24242,true
+AppleLeaf9,test/Brown spot/Brown spot (299).jpg,test,,Apple,Brown spot,1,Brown spot (299),d6f44e75bb1f0e2c13e459dad2989837e30f33381cb36dcae898c7af561ea74b,30306,true
+AppleLeaf9,test/Brown spot/Brown spot (315).jpg,test,,Apple,Brown spot,1,Brown spot (315),65c04ec954b53ad95bad6756479eb4e8fee6b3e2a25655f510ef64012b913d37,29494,true
+AppleLeaf9,test/Brown spot/Brown spot (325).jpg,test,,Apple,Brown spot,1,Brown spot (325),47b1f3a942d46796a8dd0a81709a01129236873322b01fbbab79db7b0f18acb8,32545,true
+AppleLeaf9,test/Brown spot/Brown spot (352).jpg,test,,Apple,Brown spot,1,Brown spot (352),ab9c07133290786f830fea4408be5e64efbb74aeb8aa7ddd6dc6f19146769f8a,18923,true
+AppleLeaf9,test/Brown spot/Brown spot (381).jpg,test,,Apple,Brown spot,1,Brown spot (381),3390082e6cf08ba9e9d1ff9664c690d9293c547f21800b03b8668c61ef32a6f8,24837,true
+AppleLeaf9,test/Brown spot/Brown spot (390).jpg,test,,Apple,Brown spot,1,Brown spot (390),7e979d058954c904ad7fe13190e334734621ca0ebb9b65e2eaeb5f4d8a6909e1,24845,true
+AppleLeaf9,test/Brown spot/Brown spot (408).jpg,test,,Apple,Brown spot,1,Brown spot (408),7da6a347076a2410e0f6b8b9d3a26d4bfa45d21ced2d621b4f4a6de6b4cd516e,22441,true
+AppleLeaf9,test/Brown spot/Brown spot (79).jpg,test,,Apple,Brown spot,1,Brown spot (79),ce54d9b307b52c9a8c7528f34585ab509032fba5c0354988f533409e585a4474,24890,true
+AppleLeaf9,test/Brown spot/Brown spot (8).jpg,test,,Apple,Brown spot,1,Brown spot (8),8b484ede159ff9aa0754e3195f385bd3955dfbff6ee24655d100301a5ffd241b,28179,true
+AppleLeaf9,test/Brown spot/Brown spot (90).jpg,test,,Apple,Brown spot,1,Brown spot (90),14f1d5882bd516e96bb06c5b1006c18faa090dcc67e26aa5baf2500e4520bb27,18618,true
+AppleLeaf9,test/Brown spot/Brown spot (94).jpg,test,,Apple,Brown spot,1,Brown spot (94),9f148e42e54216dc30c6da687888b797ed1dde67135a12f6e9d8a760e5306a5c,21924,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (105).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (105),5cbb2ef87ceec547fade607c80d227f7aa0812b7a18f674f228a5e4d469b92f0,78354,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1084).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1084),b36b858ebf9953960c48ed056b56ca09d9bca20fd046fa619165051aa88f79cf,50215,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1134).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1134),db5eb52d73b0a265daca1b1b714da9965e9817153f91bc741d83c2a98575b57d,75658,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1168).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1168),f5c95aba7c588f556ab1b06b78e0b6cd75e630ad6b3bda436e5af91a4626bc82,77875,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1188).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1188),cad22c77135b3614689fd59bd8a3b483f9310dd533adc6dd0207a2d4bc44bc03,63949,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1294).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1294),351d858c53ecd6159a78ef483c3b4000a42592a79d825c6dc6f5d94ab1ee3725,63824,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1483).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1483),c5b3ffa5e3a71ae3b1e48893116c604bbe0e6a0113d6fcd1829cdfd6cf696a6f,49123,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1558).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1558),d341d31d210c1c947040d9d094e29065f0dee663fbfd65866d5b063cf2ac8a99,62748,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1704).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1704),e28229e3b983be215fcf871a72c46562f3179060916b2a35c1a54504c2ef0841,64434,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1722).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1722),9f8ba08e6957053556024ebb07e8af93cb188c1927071930611043477505666b,98505,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1733).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1733),1082c1bac2ae502791c656a0d4382befe86f3ce8a5b1cc3cb24ae5ed70bb7ec4,72983,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1891).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1891),e707d0349784439fa7a95b91ab39df11039165766352cc46686aaf808c65265a,72403,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (1897).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (1897),2aa58130b3b6a044ddb7d529d119fa15eb84693ee077aded1322297713571623,81779,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (2022).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (2022),300b2be008ca0dcacc350d89c3095f561c57a1cbbfb62ec3f60cd9cf19706c71,72598,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (2095).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (2095),269228746b60e4d532ebe002d3b6a44ca72c3eb87d0bc5ee2f617d94855fdd26,59089,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (2433).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (2433),8320141b7665b2701bd3393c47a2a28fbdc352a2013e8fd405b3585983804729,75837,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (2593).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (2593),6a51a10c4262ba17d0001d9fe003c42d9d9563a32e372709f98c30d91b1a62ca,63362,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (267).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (267),a2c8d84cb439ab03fe6bf262f7e851d084b1eb3719227c8694ba0ef8be3b3b9e,70252,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (275).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (275),180b14addbbf1ce68a6e6e6f2c3b8e79837548009122a14facac40e62ad24527,75418,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (2932).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (2932),fda706be14f49c03468dbda19173b1f3db110c559252604d4aa0400315fa7a2a,44502,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (3065).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (3065),56530a4bf093ecd921b26131cc2e7cafddd7e1678888bfba2027271c6fdc8196,62873,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (309).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (309),1742a7c01681fd9c96b1f7612c31168ad22c5e2e8dc844953f135d5dd0081832,78072,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (3179).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (3179),e95a8dc850d2e712f9114747a6e30453c8f967f9c07d231ffa37a906fc74d192,68609,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (318).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (318),9b671cb04afb7e90c4cff1414d89f3402687fbfd81236aa8a623b49e59763d84,74633,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (42).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (42),630d433437afda90f40441ef657af1b4c11d82226260cb0586469411c50550fc,63778,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (428).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (428),75d3ac2865f6f5f92e2bd27dd08e9a9cd72e812d5661d77bc879a8e9e22bb5ee,83408,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (446).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (446),9b6d259c4fd03c0f06d176d3001ba8306f153c2619c6cd3c5554c28f5809ff2a,45734,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (498).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (498),997cc2e5c8eea6f6f405bb12be57d0cf1102e89411121a9d4db0a6711fe8affc,67640,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (537).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (537),5b85d3f60b19767c70fbe20263237d31a1f8ff484196d26e0531ddf1917ea4ce,64196,true
+AppleLeaf9,test/Frogeye leaf spot/Frogeye leaf spot (569).jpg,test,,Apple,Frogeye leaf spot,1,Frogeye leaf spot (569),ba23ab084f3e5119d7d80b5d4cee338b4c7fd7deb3f6f06fb90b47d85d020809,54204,true
+AppleLeaf9,test/Grey spot/Grey spot (102).jpg,test,,Apple,Grey spot,1,Grey spot (102),c6f3b1f5335c733a9b043f75f7d4506973bb1d5747ad815e1238fe08eaab1cdb,16512,true
+AppleLeaf9,test/Grey spot/Grey spot (114).jpg,test,,Apple,Grey spot,1,Grey spot (114),6e679400fdda1910f9537a0c9b7fd9e8ada86034c6e751fece74c90c804aeb2c,18444,true
+AppleLeaf9,test/Grey spot/Grey spot (152).jpg,test,,Apple,Grey spot,1,Grey spot (152),78f8fe3f8fafb60935a4461ac0a874fdd784ceaa500cf61ad017717239c1f571,45436,true
+AppleLeaf9,test/Grey spot/Grey spot (166).jpg,test,,Apple,Grey spot,1,Grey spot (166),b3b9170a5dfc5ccafc36c6b1a52d4308ae2a1f33da26506695bdfb7605890e46,56423,true
+AppleLeaf9,test/Grey spot/Grey spot (167).jpg,test,,Apple,Grey spot,1,Grey spot (167),555bc72466b9be859f9adb1bec7942e4da836acc6cc0c073ac91c8480317efac,60463,true
+AppleLeaf9,test/Grey spot/Grey spot (18).jpg,test,,Apple,Grey spot,1,Grey spot (18),137e1f88c16c8fe39460f08c95c216235686dab533d6f41ef9836892d858ae6f,43265,true
+AppleLeaf9,test/Grey spot/Grey spot (189).jpg,test,,Apple,Grey spot,1,Grey spot (189),f9506e4397d837477fd4fd5a5c7f2c74b1256fbbad4bac1e0fa2f0a97d5e1513,54644,true
+AppleLeaf9,test/Grey spot/Grey spot (2).jpg,test,,Apple,Grey spot,1,Grey spot (2),3341cad1de88b089639e7cffbc4d19f5dfda6a72afd1ff6c1b958702f44e0320,71494,true
+AppleLeaf9,test/Grey spot/Grey spot (200).jpg,test,,Apple,Grey spot,1,Grey spot (200),1fe98ca5121178dbf27a6326788c3354f4b1320e9511a052ed70bb2c5ba08085,52944,true
+AppleLeaf9,test/Grey spot/Grey spot (208).jpg,test,,Apple,Grey spot,1,Grey spot (208),331f48eeaa872efbfd611ea01f27b4053dc1135e761944f9c7a86c7fefb9f2d3,43605,true
+AppleLeaf9,test/Grey spot/Grey spot (214).jpg,test,,Apple,Grey spot,1,Grey spot (214),6b0ad12c236ed24dd2667daba2429689bfd26b8d3886e2e3c2af15c81f23a388,60218,true
+AppleLeaf9,test/Grey spot/Grey spot (215).jpg,test,,Apple,Grey spot,1,Grey spot (215),3e1dcf497a83f19e733196c4e3593785e721b67a1204199a42410c4eab50a095,51519,true
+AppleLeaf9,test/Grey spot/Grey spot (22).jpg,test,,Apple,Grey spot,1,Grey spot (22),ba29cb751362402c1c68abec98cfabcb5e5a90880630e7d08cd0a09b79e4f718,46938,true
+AppleLeaf9,test/Grey spot/Grey spot (254).jpg,test,,Apple,Grey spot,1,Grey spot (254),8611865a6c9612e3322debda5a884b180f8e9d205570f9458e0aa46c76a05479,24521,true
+AppleLeaf9,test/Grey spot/Grey spot (255).jpg,test,,Apple,Grey spot,1,Grey spot (255),69d79f0f847af4103f9fd6a3a56530b3ddb75044819ac6ea504294ca8fc26a2a,32328,true
+AppleLeaf9,test/Grey spot/Grey spot (276).jpg,test,,Apple,Grey spot,1,Grey spot (276),4d0be0e61661a2fec62f0247f100d7525966486e20f7d98dd0fb0351464ee70b,26281,true
+AppleLeaf9,test/Grey spot/Grey spot (299).jpg,test,,Apple,Grey spot,1,Grey spot (299),ff8310c92171f2e4abc0a984a346915545eec15157ade5a361fa420aff2d66e3,19912,true
+AppleLeaf9,test/Grey spot/Grey spot (301).jpg,test,,Apple,Grey spot,1,Grey spot (301),2c80bd8da880696bf57b9d16932fd63ffa96bccb8edd8b6de5ddb2d530d9b410,25980,true
+AppleLeaf9,test/Grey spot/Grey spot (31).jpg,test,,Apple,Grey spot,1,Grey spot (31),633b4947015cef7a714c975ff686965658d08a6ebe5423da51370be11c12bded,45296,true
+AppleLeaf9,test/Grey spot/Grey spot (313).jpg,test,,Apple,Grey spot,1,Grey spot (313),b05ad9f9c7e4c3b4307711aacadf25d4ad5a727766dc6069c9067b01afb57b03,15563,true
+AppleLeaf9,test/Grey spot/Grey spot (330).jpg,test,,Apple,Grey spot,1,Grey spot (330),59879adad25dd7ff0dd315649d229f931aa0fda2ad813951b197535fab2e3a91,57437,true
+AppleLeaf9,test/Grey spot/Grey spot (331).jpg,test,,Apple,Grey spot,1,Grey spot (331),2e91cab7494a6832c726c95fae7d4c8954f7db828c3e18fdfbaf381d9b6edd8d,49786,true
+AppleLeaf9,test/Grey spot/Grey spot (336).jpg,test,,Apple,Grey spot,1,Grey spot (336),2d7f57dc9e0521116faebce36ea0293f81681c1e0fd3a5e01700f7b43c661fec,52455,true
+AppleLeaf9,test/Grey spot/Grey spot (35).jpg,test,,Apple,Grey spot,1,Grey spot (35),d445e5b6ad2f936d14f39a16b8793033b77979634942abed3420cefe2a4881fc,45996,true
+AppleLeaf9,test/Grey spot/Grey spot (51).jpg,test,,Apple,Grey spot,1,Grey spot (51),f52fab502eb449230cc273e7f04ccfff30407e6e8b41ae51087153b2f86c5e76,19115,true
+AppleLeaf9,test/Grey spot/Grey spot (54).jpg,test,,Apple,Grey spot,1,Grey spot (54),45e15697f66b780612a47a5692a1ef733a0b77ccb43470b80f4569d3728b86c3,19594,true
+AppleLeaf9,test/Grey spot/Grey spot (73).jpg,test,,Apple,Grey spot,1,Grey spot (73),6e8155ea4c1d8dfa2839ef431d4a3f923a58ae9e12a8f473db1be5d61ee556c5,17011,true
+AppleLeaf9,test/Grey spot/Grey spot (76).jpg,test,,Apple,Grey spot,1,Grey spot (76),d59514b19343cb703dba4b7dbf333b3b6d48d4ae2882904c34c76e27cd9f9102,21316,true
+AppleLeaf9,test/Grey spot/Grey spot (8).jpg,test,,Apple,Grey spot,1,Grey spot (8),bd3378491e8d2d0802e8e93a0f62d1183d09a49553e6fd47b49b0f33e487ad39,28172,true
+AppleLeaf9,test/Grey spot/Grey spot (89).jpg,test,,Apple,Grey spot,1,Grey spot (89),0aa40c2009ac886cd3b59a3e778eec934f1e6f26377e038f8fbe889d00ec010a,18278,true
+AppleLeaf9,test/Mosaic/Mosaic (100).jpg,test,,Apple,Mosaic,1,Mosaic (100),ab39b26779dbe6772a6dfaf1a88dc4f56bb3386d1a3201f27cf6af33b130119e,37122,true
+AppleLeaf9,test/Mosaic/Mosaic (112).jpg,test,,Apple,Mosaic,1,Mosaic (112),5a5d721578371fd6290d50649765c5760a3e22399fecc70316163cae9acdf6bb,33309,true
+AppleLeaf9,test/Mosaic/Mosaic (128).jpg,test,,Apple,Mosaic,1,Mosaic (128),99c288c8d0a5afe99d15ab2fd47fda1d29730d27fd3a568b61b12394dc6a76f2,30351,true
+AppleLeaf9,test/Mosaic/Mosaic (130).jpg,test,,Apple,Mosaic,1,Mosaic (130),211d09313c8c32b0d541e95d5d51f6d38ca355c2585667c3005b1e94218518d7,22575,true
+AppleLeaf9,test/Mosaic/Mosaic (152).jpg,test,,Apple,Mosaic,1,Mosaic (152),f8e8efe01731164fb99c6ed7df00c64cbeffe46363d00cbfbf7afe942ac78bd2,29310,true
+AppleLeaf9,test/Mosaic/Mosaic (166).jpg,test,,Apple,Mosaic,1,Mosaic (166),6ec4d29ddddd83aa33580115955ce8b03490a6d06732e3d6e6d550eebcee9678,31013,true
+AppleLeaf9,test/Mosaic/Mosaic (169).jpg,test,,Apple,Mosaic,1,Mosaic (169),9c692bd6627eeecb34978db02fd418354dd4c8f191370aed1161f8b1dcf2a745,41456,true
+AppleLeaf9,test/Mosaic/Mosaic (173).jpg,test,,Apple,Mosaic,1,Mosaic (173),1e6c52e262e724470acfacd175125c457f408893bbda641425421690c6818d1d,63803,true
+AppleLeaf9,test/Mosaic/Mosaic (18).jpg,test,,Apple,Mosaic,1,Mosaic (18),5a49a3930a82d07625022600d9f03cc32261848334c19a72f1cd7e2fdc73962f,41144,true
+AppleLeaf9,test/Mosaic/Mosaic (180).jpg,test,,Apple,Mosaic,1,Mosaic (180),8da74fff142f29d96d6c423ab8a4c0e8c65f9d10af4ee9216bd22d226c9c09fb,58810,true
+AppleLeaf9,test/Mosaic/Mosaic (186).jpg,test,,Apple,Mosaic,1,Mosaic (186),ecf6a26656cb4725c437f9734d36a817fe6a04787001a7a375a66b2e3f555b43,45724,true
+AppleLeaf9,test/Mosaic/Mosaic (197).jpg,test,,Apple,Mosaic,1,Mosaic (197),c83cd00521f67db01bb14880f611af9f3d4aaf18efdd4a676977a0937294ccde,26632,true
+AppleLeaf9,test/Mosaic/Mosaic (210).jpg,test,,Apple,Mosaic,1,Mosaic (210),058aed4fbf25412e39a9055ca215bfce6303070f8b238bf60ec1c02c32cd1852,34050,true
+AppleLeaf9,test/Mosaic/Mosaic (228).jpg,test,,Apple,Mosaic,1,Mosaic (228),79a5bcb58525a0352dda7076832541dda71f0e35425594be8549a92894cb2369,28343,true
+AppleLeaf9,test/Mosaic/Mosaic (275).jpg,test,,Apple,Mosaic,1,Mosaic (275),319599f91ac89a2bd69f8a768fa05207630a0e524af1a7becada4fbce28344c7,60993,true
+AppleLeaf9,test/Mosaic/Mosaic (283).jpg,test,,Apple,Mosaic,1,Mosaic (283),221597085516b266810937e9fb618729781a23246f597940795b37b831253cba,39848,true
+AppleLeaf9,test/Mosaic/Mosaic (288).jpg,test,,Apple,Mosaic,1,Mosaic (288),4c181683754076f6476adcd9de18998186dec563e3b235cb79a74ad994a604f0,43889,true
+AppleLeaf9,test/Mosaic/Mosaic (312).jpg,test,,Apple,Mosaic,1,Mosaic (312),80c2a51156783072bb457e78b47ab5418d10886f0060f5f2ba6280937b7ee977,49565,true
+AppleLeaf9,test/Mosaic/Mosaic (314).jpg,test,,Apple,Mosaic,1,Mosaic (314),bb61976124658463799c772ce479f0cec371928dd4e6e3b5205601427a8f92fa,40685,true
+AppleLeaf9,test/Mosaic/Mosaic (318).jpg,test,,Apple,Mosaic,1,Mosaic (318),831bb6c92f2865ef7c9a0a69847765158f6dd291f70eaac737e9e218354ba7c1,41804,true
+AppleLeaf9,test/Mosaic/Mosaic (324).jpg,test,,Apple,Mosaic,1,Mosaic (324),531faf8dc92e13d4101a6fbad8890f3ac821d14b6f53fd1841c5ad1340b411e9,51815,true
+AppleLeaf9,test/Mosaic/Mosaic (332).jpg,test,,Apple,Mosaic,1,Mosaic (332),50be5d991d0c88207ea99646a83e3f19574e352d8c0efcf04ee0b65ec3fb0426,48320,true
+AppleLeaf9,test/Mosaic/Mosaic (339).jpg,test,,Apple,Mosaic,1,Mosaic (339),e6b309c05da654dce421e4e7d98e74499b589eebaaa82574c209b364ca415624,47262,true
+AppleLeaf9,test/Mosaic/Mosaic (340).jpg,test,,Apple,Mosaic,1,Mosaic (340),eac84aeeccd24c913f8a89c86c4fc893e77d6aa46c8bd54b554a424e91152228,47440,true
+AppleLeaf9,test/Mosaic/Mosaic (359).jpg,test,,Apple,Mosaic,1,Mosaic (359),ef95b98e308b0d327bc77e8a6d1b8783b335753418564a8c1769a41374715d0c,45340,true
+AppleLeaf9,test/Mosaic/Mosaic (363).jpg,test,,Apple,Mosaic,1,Mosaic (363),021965b26c6b2364b3d41af26c3b42529f0a3758d410ba7cb03fa91893d61974,42888,true
+AppleLeaf9,test/Mosaic/Mosaic (39).jpg,test,,Apple,Mosaic,1,Mosaic (39),fe8beb6ff7497fc7a59d82ab2462a1c08444b1165fd9ffe6027aebfd1bcb2853,69286,true
+AppleLeaf9,test/Mosaic/Mosaic (53).jpg,test,,Apple,Mosaic,1,Mosaic (53),486407f4e4d9142038bd61f0ba07e49b464e312eb8020b21f2e9f11e3ef9d6c5,54987,true
+AppleLeaf9,test/Mosaic/Mosaic (74).jpg,test,,Apple,Mosaic,1,Mosaic (74),bb50eefd4f391b009099e45fb5f409e793343701c56d697f7f13d532453f474f,34053,true
+AppleLeaf9,test/Mosaic/Mosaic (83).jpg,test,,Apple,Mosaic,1,Mosaic (83),4d32450e5d65cc2333138eedbd0e7e5f7a7e09774f2a49bce3138fdb35b2c430,34629,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1226).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1226),f4e5742d40907f79b61256d103879232fd740f315782652edb2e22ee275c4c6f,63574,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1231).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1231),7e5e18342a8acc9fce4ef610e95a604737e7de825b057645130f475aa1d71579,44590,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1275).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1275),65b66bf83c8cc177d90a2804d155b15318e1b022ac126bfb65a455644fa3565e,56427,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1277).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1277),fdf45dcc9a5c466de3dd2b15a1a967503e4a11f9f0ebaf81f702a88a2931ec33,52611,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1303).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1303),0700c40359495cc108fe755c82341851c994f75d5ea282f79422eef66081ef9c,57343,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1340).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1340),307995e6bd66a88197266b616b41f2494e6213509a537a983888c72e262958da,58149,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1382).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1382),ab9cf2bb82458cd5877071cce1b7dc418441ff0b12f0810c4bfeb9ef567a730b,35895,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1476).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1476),a2f00f54561a0244971e7d0f997c287fb85abeafa95c8089d66b0a3d4afdce0d,61122,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1491).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1491),0e07db69bc10918f01bb0d41a4e6d2e42606a713f48cf459eccf4a47ceebda5c,65381,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1499).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1499),2c7b1b8b48ee5875a166ccb7d867ad332de3d2b28a6201cec6de1f01cf5efb9d,71335,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1515).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1515),dabe6442fc4dca8d20ad289e2b7c6cd25f2cfe7f90d0f09cf29a54c72fc9f3d3,42865,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1539).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1539),b91673e0415a1c89863f27a6071c4e2094dd1dddc9aebb6455fbf4226cd96880,49377,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1541).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1541),e84effe3e1ac7df6b411048b12a3e14453260e1213bf7dc88f021c8eaaee39f8,73352,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1610).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1610),24a2df28545c48439550e8e9dc71358a557422b6e641c26a2334fcc3ef048164,70793,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1679).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1679),3c52bbe3b9f2f8c8225b5c612fb074af1421753870194899b45e36ba0bdfa421,70165,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1703).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1703),1cbbb95796c8cbf1a31cf77fdb494ed6edfa98a0abac8af7aa578ad01ce490b4,57741,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1740).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1740),204d61a1ef82e042db25870c820fd5ef62f6911c1dcb6fe69006262595d12f61,47246,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1776).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1776),e9305eb0f363cac01632334b898beb0dc5b6788ef2493bcacb796b8a2a6813fe,47152,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1888).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1888),ea823b5fbbb1d7cd8063f63e8eed1be897e4f899c7db17a95614df0795bba1d3,58638,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1910).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1910),705e63f4bf0acf8b48bc92d4165e7c7074efcce518084fc19f52fe0a1242fe58,33623,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1919).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1919),53416580890a1b2f2616fb03e1f15789d1abeca7a1c7b6680bd58f6dba7bb8b9,56304,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1979).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1979),5792b6fe624b6c12769a4afeddd1a45c3a5035d83ad3c0d4fb227f4d917fde37,47219,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (1988).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (1988),09b38d34704cc157b3f5f9c96ddaac3774c8f2b2a05205c664ea859c39058852,46642,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2004).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2004),3acd044c9eeb3b40566b0822c38d60810d8e026efedf02edbe885530bbdcf85e,55626,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2132).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2132),902e2aa384cfefc5709d957b17d4032b24b6fb1a58128f921dc8fc400e95ae32,47323,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2165).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2165),a15e3cd2e2dfc251cf27f688144fb31e68a2392fbbf97bf994e1fcf8ad7be7e9,73753,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2179).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2179),5282150054519ca0205398595dc9ede736e3cba5956f8104b2a5da3834e82a7e,55719,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2185).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2185),c92a4aac44d1cb7868e9571c06a0b1a4bde6a78774a0d22243252adc557ebd1a,55573,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2186).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2186),d4cd6843ece4a1163db9757cdec97e72fb9dde18706fe7d05d40e5f61cb8e3e6,69820,true
+AppleLeaf9,test/Powdery mildew/Powdery mildew (2282).jpg,test,,Apple,Powdery mildew,1,Powdery mildew (2282),b0e36c6eea1c03e20ef153c79275c64c7b9414bcff646c289f5e6f96e03ae84f,85126,true
+AppleLeaf9,test/Rust/Rust (1000).jpg,test,,Apple,Rust,1,Rust (1000),a73b88009cf5032feac63839b95e6612036f429976b43d3e8da18bbc52c6d705,44741,true
+AppleLeaf9,test/Rust/Rust (1009).jpg,test,,Apple,Rust,1,Rust (1009),e04e6dc20d44a0902bbcc41e30771c7eab1c64e6eb918c78053bce69a4752748,70493,true
+AppleLeaf9,test/Rust/Rust (116).jpg,test,,Apple,Rust,1,Rust (116),1540a7ea7a279280d30a4248fbac6fbd713416271ca9288811262cff02266161,184351,true
+AppleLeaf9,test/Rust/Rust (1244).jpg,test,,Apple,Rust,1,Rust (1244),93d6cccf660bcd50a2b03e710650306812c0c09c04547eb6d56b94e6afc93bda,72532,true
+AppleLeaf9,test/Rust/Rust (1259).jpg,test,,Apple,Rust,1,Rust (1259),53dced42cde853dfa133b727b50a92e25cf579f5c22993f70145ba3d771763f6,117717,true
+AppleLeaf9,test/Rust/Rust (1263).jpg,test,,Apple,Rust,1,Rust (1263),0eb6faeacd58d92dd4f705d032357bdb0db75af070368a4e4e6d98911eddd59e,44637,true
+AppleLeaf9,test/Rust/Rust (1539).jpg,test,,Apple,Rust,1,Rust (1539),db8be7044b5fd5bb99f22e67ef520128b8e2de962721471ef29fba0417f9a706,70972,true
+AppleLeaf9,test/Rust/Rust (1592).jpg,test,,Apple,Rust,1,Rust (1592),e2c8e4d97b90395569a4110b5f2b46ecfd0f5cef8122f7bdd1ff6ec5bde4d75e,58699,true
+AppleLeaf9,test/Rust/Rust (1724).jpg,test,,Apple,Rust,1,Rust (1724),95ed11ec2ef4b202755921938c9808d4051ba2af3aab3ccf3d97fcbc891000a8,43616,true
+AppleLeaf9,test/Rust/Rust (1743).jpg,test,,Apple,Rust,1,Rust (1743),5e98528f3deb332d882cd9397bd26f80193297ac2db4177da8bbae1624622c6d,54026,true
+AppleLeaf9,test/Rust/Rust (1782).jpg,test,,Apple,Rust,1,Rust (1782),f7d25e733718ddca8a53bd95b2b788c2eaa3f54a09af00339c70c2827e0b9839,81667,true
+AppleLeaf9,test/Rust/Rust (1934).jpg,test,,Apple,Rust,1,Rust (1934),0c6d1fee10e5514d555529e390f65f69fbf8ecfeb29b13020315c7e350b23401,74292,true
+AppleLeaf9,test/Rust/Rust (2140).jpg,test,,Apple,Rust,1,Rust (2140),84b20ede3a31468a8188eb0c1e586beb1ea8e8a59f4d41762fc82df2682cc95f,78775,true
+AppleLeaf9,test/Rust/Rust (2144).jpg,test,,Apple,Rust,1,Rust (2144),f1fdbfca7596aad67685d751623823993d4354fb95cadd85c0f928b021399327,69938,true
+AppleLeaf9,test/Rust/Rust (2187).jpg,test,,Apple,Rust,1,Rust (2187),220301cfdeb2cf3febe2dae6e62196841b7fdefbf06d81b6cc9731d7a6cf54d7,76720,true
+AppleLeaf9,test/Rust/Rust (2206).jpg,test,,Apple,Rust,1,Rust (2206),ca990936748f9089f6b3cdb9e0d4bd58909c193c23d441c8016f55aa2587137e,62125,true
+AppleLeaf9,test/Rust/Rust (2670).jpg,test,,Apple,Rust,1,Rust (2670),31d28ef295f6afd3cef7f8b593bf16ab83c3ed2ddd129d0523fb06e520e45c7e,10686,true
+AppleLeaf9,test/Rust/Rust (286).jpg,test,,Apple,Rust,1,Rust (286),5f217ca25e047998ce1d9899342db4ffbf85d8043c79252ce4b844bb967224af,255410,true
+AppleLeaf9,test/Rust/Rust (329).jpg,test,,Apple,Rust,1,Rust (329),962847175be9264a99390b4d35067eb859e000f743f74f11d4fb69f4e38f7a35,193646,true
+AppleLeaf9,test/Rust/Rust (354).jpg,test,,Apple,Rust,1,Rust (354),7b652893acb24aa4b28261734565dff6d4df17815f647ed890df4d703ecafc93,290866,true
+AppleLeaf9,test/Rust/Rust (361).jpg,test,,Apple,Rust,1,Rust (361),9deb716cb884b52c630770fc2952d8fd9fb78dbe63b3890f22ec3122f1f21a84,142231,true
+AppleLeaf9,test/Rust/Rust (483).jpg,test,,Apple,Rust,1,Rust (483),2181ced8f35b8b9d6afe0344a43496fbf405c728784546f45d7eb6666929afe8,217677,true
+AppleLeaf9,test/Rust/Rust (484).jpg,test,,Apple,Rust,1,Rust (484),fb0fe347a24bfc02d13e85fa908a661a543dcd7b83a694292b19c4c975b94fca,166573,true
+AppleLeaf9,test/Rust/Rust (540).jpg,test,,Apple,Rust,1,Rust (540),8b86a992739736dd487e0550f5e7d85cf297326449d85e68dc085c094218834a,328725,true
+AppleLeaf9,test/Rust/Rust (666).jpg,test,,Apple,Rust,1,Rust (666),b3dfff963c0174db573504d3c3c18bcb94a738c42da00874c7aee143fb28cc2c,99983,true
+AppleLeaf9,test/Rust/Rust (670).jpg,test,,Apple,Rust,1,Rust (670),21a8e82fa193b0a44d4e339d69d142d91b12d288a186cd913c12e4eaae9d9ec8,50485,true
+AppleLeaf9,test/Rust/Rust (677).jpg,test,,Apple,Rust,1,Rust (677),06c0ef900f1fe575afd886e17a26eaee4405531a58ee51c773bf5249824ce7a1,64381,true
+AppleLeaf9,test/Rust/Rust (758).jpg,test,,Apple,Rust,1,Rust (758),55500b582af78fd2ccd443e67c03e43b6809a25e017dac539eb323b083113a86,60883,true
+AppleLeaf9,test/Rust/Rust (823).jpg,test,,Apple,Rust,1,Rust (823),a7e30b37c45863ac63e5f543fb4e1358d9f9e15e9599bce631bf117a25cc22a9,59788,true
+AppleLeaf9,test/Rust/Rust (932).jpg,test,,Apple,Rust,1,Rust (932),2a68e608682984a5bb9b4a164c14dcf8f98d9cbfcc60bc798cf9effb5bacfabc,59477,true
+AppleLeaf9,test/Scab/Scab (1079).jpg,test,,Apple,Scab,1,Scab (1079),2c02cb726be5b794351f454f400ab35a23e9af5f739ddd79c21c45789f105f6f,46203,true
+AppleLeaf9,test/Scab/Scab (1160).jpg,test,,Apple,Scab,1,Scab (1160),03f617d06bbc266b267893fd919a7de73b4be834b9e447076b8d8677443a356b,86598,true
+AppleLeaf9,test/Scab/Scab (1417).jpg,test,,Apple,Scab,1,Scab (1417),ca4c8a4fe75e0525db761a36aaa53b4c989a7979ca6b17380b1c02abb8445d72,67524,true
+AppleLeaf9,test/Scab/Scab (1463).jpg,test,,Apple,Scab,1,Scab (1463),37e08925fcdf9340509b5d8c0cf87c44313e2f38c8325ff7e4a11e000d3a4102,72074,true
+AppleLeaf9,test/Scab/Scab (1494).jpg,test,,Apple,Scab,1,Scab (1494),38e2f8acaa9014e84d510108ac9c63a4a707eaef85839cbed348342a5de0a7e1,69436,true
+AppleLeaf9,test/Scab/Scab (1554).jpg,test,,Apple,Scab,1,Scab (1554),7fc17a65d5f9f05cfac5af72b4ab520ba0274cc04ca0fcb381b40a1d5ca9b2d8,69289,true
+AppleLeaf9,test/Scab/Scab (1934).jpg,test,,Apple,Scab,1,Scab (1934),fc91b6fd819d557c5be38262f3c0ebb15fa7bb1b2b6d6c3161e008cf2107028b,54742,true
+AppleLeaf9,test/Scab/Scab (2655).jpg,test,,Apple,Scab,1,Scab (2655),38728d515d170ca0da24462efddce3625d0c97cf118fed454de8cbc54362fc94,72116,true
+AppleLeaf9,test/Scab/Scab (2962).jpg,test,,Apple,Scab,1,Scab (2962),49e80fd913eb79ecd61b42222fa633b3407d9f7da5b3800625c754df66eb3d6d,98019,true
+AppleLeaf9,test/Scab/Scab (3108).jpg,test,,Apple,Scab,1,Scab (3108),887e344053df9a2fd5199aeb989d6a60171ac56a327ff0a7d2ef2507ea594cdc,64240,true
+AppleLeaf9,test/Scab/Scab (3146).jpg,test,,Apple,Scab,1,Scab (3146),25850dd11177ad7cf86e79b70502784522b339c9ce37e40a9572244b8321995a,73015,true
+AppleLeaf9,test/Scab/Scab (316).jpg,test,,Apple,Scab,1,Scab (316),783851b625c92a96349c489ab2430af6be91de570005e6dbbb5728fe8a1f252c,171506,true
+AppleLeaf9,test/Scab/Scab (3191).jpg,test,,Apple,Scab,1,Scab (3191),576fc73b500101e34d70a75498ed2ded287eadd52d8d2bd0c7288a2f11456133,67648,true
+AppleLeaf9,test/Scab/Scab (3285).jpg,test,,Apple,Scab,1,Scab (3285),ac3b884cc5faec8c5a05eb0c4a2dac03e5691ef7c4c1824ef643f190f5476139,77110,true
+AppleLeaf9,test/Scab/Scab (340).jpg,test,,Apple,Scab,1,Scab (340),99879705010f733253bd0f44badca499d7b0a495cc42be71e50891217dea6520,279926,true
+AppleLeaf9,test/Scab/Scab (363).jpg,test,,Apple,Scab,1,Scab (363),964fd810e13462ad1bc0714aaf3e46bc0f7d3cb8e029f161f660bd65c26f616f,219059,true
+AppleLeaf9,test/Scab/Scab (3649).jpg,test,,Apple,Scab,1,Scab (3649),42b20606237a6f5f564ad5d84cf0865034daa6982eb6aa0a365e5ddaa756016b,55444,true
+AppleLeaf9,test/Scab/Scab (3702).jpg,test,,Apple,Scab,1,Scab (3702),23475487420b785b0dc867bff9f740f9a16e7f25da865d91c237ca55eba70218,62832,true
+AppleLeaf9,test/Scab/Scab (3894).jpg,test,,Apple,Scab,1,Scab (3894),82b149eae2f4187ff066dcaf2183785a5b45801b2a11dfba70743b64cc9c83a2,59530,true
+AppleLeaf9,test/Scab/Scab (4291).jpg,test,,Apple,Scab,1,Scab (4291),82519feef5699891e2f0fe7186a1db9603e2393b87d6e91c991ecff72cdc5e25,77827,true
+AppleLeaf9,test/Scab/Scab (478).jpg,test,,Apple,Scab,1,Scab (478),822b46b6a9d71e5661413a610bcedf0d3b6b8d23e9777cf04d76d9a3e4b6d004,178172,true
+AppleLeaf9,test/Scab/Scab (5067).jpg,test,,Apple,Scab,1,Scab (5067),80837e94ddf81f59a8b54d7ee730f7382b549afb2ab2b157369bc8a70464d4c7,69599,true
+AppleLeaf9,test/Scab/Scab (5300).jpg,test,,Apple,Scab,1,Scab (5300),99fcccca9035777c9d6b55949e3c4b2cf9d66b3dea654cf589f0bd38ae07c99a,57247,true
+AppleLeaf9,test/Scab/Scab (533).jpg,test,,Apple,Scab,1,Scab (533),f81b7043da170a64600371f0487da7b24aef85e93d8cbeaca639ffa3d20c546e,259377,true
+AppleLeaf9,test/Scab/Scab (601).jpg,test,,Apple,Scab,1,Scab (601),1b95b30da0684bb141886e38022a90c4fe53645f5f9d0881c52869439f37dc4e,94088,true
+AppleLeaf9,test/Scab/Scab (655).jpg,test,,Apple,Scab,1,Scab (655),77d1a167491a6123485e584970e5c65c7169ec2dd9f71fdbdf74d34c01ff3744,55532,true
+AppleLeaf9,test/Scab/Scab (775).jpg,test,,Apple,Scab,1,Scab (775),7b6d3e071b14080844cea647f2f574888962c47423c36cc5b595ed7bfb199334,71174,true
+AppleLeaf9,test/Scab/Scab (84).jpg,test,,Apple,Scab,1,Scab (84),b69780bad217906a0bf87e3489e1cd2d49f6cadfd0416ab084ec1252dbc41138,214195,true
+AppleLeaf9,test/Scab/Scab (902).jpg,test,,Apple,Scab,1,Scab (902),1250fbd2f8eb993f5a613c5d5c426f9e2a5581f61e6bcdf8d01ba91d1f110d6a,85778,true
+AppleLeaf9,test/Scab/Scab (942).jpg,test,,Apple,Scab,1,Scab (942),fab1cad3aae8b9ecae811d67b46028ec6326c8844ad77eca4fc1808922247194,86092,true
+AppleLeaf9,test/good/Health (102).jpg,test,,Apple,good,0,Health (102),4847d7fbb21d331644b89e501f265d09029dedac7199aa2cacf69190e2cea9c6,205370,true
+AppleLeaf9,test/good/Health (103).jpg,test,,Apple,good,0,Health (103),d348b1ed069ecd222ead218bb2a4ea2563fb1979e15bba2b0342cd045d5c2aba,360414,true
+AppleLeaf9,test/good/Health (106).jpg,test,,Apple,good,0,Health (106),e8dc29e0b027289980cbad0741c7673f75f34e920b3f6327170d39655f15f652,117212,true
+AppleLeaf9,test/good/Health (109).jpg,test,,Apple,good,0,Health (109),45444657458db216e9c1633ae05acc8f96f68273416c68e0361ab060c602b5f7,336972,true
+AppleLeaf9,test/good/Health (11).jpg,test,,Apple,good,0,Health (11),216820c0aea09fe54ce07dafea736345e3fedb193eff909beee6ed243f8cdfd0,220720,true
+AppleLeaf9,test/good/Health (111).jpg,test,,Apple,good,0,Health (111),02f784ec543bc0303ee1a454e53e2017844c190e0c962d71decf2b011b89be19,223761,true
+AppleLeaf9,test/good/Health (118).jpg,test,,Apple,good,0,Health (118),e55e739efcce2418bde509138992f67de834a0be9e006e0996cc1cfac7937aaf,164350,true
+AppleLeaf9,test/good/Health (12).jpg,test,,Apple,good,0,Health (12),d5b86b46fee2185337f4901d253ff7774d85848dd6e770eae732efbf4754304c,157227,true
+AppleLeaf9,test/good/Health (127).jpg,test,,Apple,good,0,Health (127),bea780ab7500612647afb156845ebe82a8ec1067384aece18342af5ef2e6691e,182176,true
+AppleLeaf9,test/good/Health (133).jpg,test,,Apple,good,0,Health (133),3ef855050daf8a5cdf196817fc68e51ca3cf4c1c959eee652f3c25a4f1a5089f,213307,true
+AppleLeaf9,test/good/Health (155).jpg,test,,Apple,good,0,Health (155),8a8474b25b7875d99ff4363cde2cd714fe57b9d2e7d6eb9666c4f793bdbb9257,237293,true
+AppleLeaf9,test/good/Health (165).jpg,test,,Apple,good,0,Health (165),95e504ee1b94e2d5a44a381be9d173b9445d90c607dfb3832bdaa26f86c393fa,363880,true
+AppleLeaf9,test/good/Health (171).jpg,test,,Apple,good,0,Health (171),0aa4bdcaa5a4c9739e22276a8ec2a0cee0bce01f74e1c8360889a16de3ad49ac,399037,true
+AppleLeaf9,test/good/Health (177).jpg,test,,Apple,good,0,Health (177),a7b373238cf64991e6a7225e7256505ddb1426e90e2092cc919a93ba5d0d4495,150345,true
+AppleLeaf9,test/good/Health (184).jpg,test,,Apple,good,0,Health (184),be70a9b0785984a984ef3900eb38ff77faab6ce00a792e071854de8374aa877d,155023,true
+AppleLeaf9,test/good/Health (187).jpg,test,,Apple,good,0,Health (187),ee0abcffd9c8a4d08d8b7d9746c4b90d626aaff4c0f03ef84815510dad12f38c,272111,true
+AppleLeaf9,test/good/Health (19).jpg,test,,Apple,good,0,Health (19),871c04b39dc19364a031af4615b464fcc875d08184ff7500ba451af40d1e3330,230835,true
+AppleLeaf9,test/good/Health (195).jpg,test,,Apple,good,0,Health (195),d84066eb153c5edaacae1f2d85686ed046713d5b8032ebcb411b8f9a19d2d444,311274,true
+AppleLeaf9,test/good/Health (20).jpg,test,,Apple,good,0,Health (20),d99a18c0ead713fcae9a630247863c85d84ec172293352659285a9ff46e8bfea,296819,true
+AppleLeaf9,test/good/Health (206).jpg,test,,Apple,good,0,Health (206),ba8447b0141c1a23e201e01330ed563762d820e6bb4c757264d459983484e22f,219242,true
+AppleLeaf9,test/good/Health (209).jpg,test,,Apple,good,0,Health (209),271bc30b99e1253629c2526ed63e3a47a00b77773b841eb0930099eff445f586,178690,true
+AppleLeaf9,test/good/Health (214).jpg,test,,Apple,good,0,Health (214),0876ed8be722a358f2a06cee1b564f1a6353766b12d99d495a99dbaf6cbdcede,190956,true
+AppleLeaf9,test/good/Health (216).jpg,test,,Apple,good,0,Health (216),72589b063b5f972febf875d09bd9de3b5ae2862395ca958e2699e5be71328b06,174328,true
+AppleLeaf9,test/good/Health (218).jpg,test,,Apple,good,0,Health (218),dd918d7e31efd55eb472404ac14b7008b39abb11b308f7e96eee8a9d6f37572a,216958,true
+AppleLeaf9,test/good/Health (22).jpg,test,,Apple,good,0,Health (22),759e59e8ebb8bea0a46c5ec37a1e0ac53d6290f191f0b1f3d28921fb6db286ea,331306,true
+AppleLeaf9,test/good/Health (221).jpg,test,,Apple,good,0,Health (221),7abe9b4a160826d158a2e3c54c1622609bc0d48e76be62f85d4aa5a98ee9a02a,183001,true
+AppleLeaf9,test/good/Health (225).jpg,test,,Apple,good,0,Health (225),eb8761dc02f764fe4b855d0e6728393033ba6c0ad9a0b53edf633b84a88a92f4,311006,true
+AppleLeaf9,test/good/Health (229).jpg,test,,Apple,good,0,Health (229),5b30d25b0218c4608e5b13193c0dca7ce032b6ad13f167fe06d6fe16590f493e,337715,true
+AppleLeaf9,test/good/Health (246).jpg,test,,Apple,good,0,Health (246),24d9c7c0462c5df44a4db2b6c3eb5ca83c9a3c2f03ba81e4394da9c726b1a752,183972,true
+AppleLeaf9,test/good/Health (248).jpg,test,,Apple,good,0,Health (248),b456f1a4fd0b9831cdf48546d8e9ff1e43d0646288593706b4eb2c72aa61b7b6,396194,true
+AppleLeaf9,test/good/Health (249).jpg,test,,Apple,good,0,Health (249),570de12e5f8f9e8ce579b24e3905d86528387a754b88058d690b6a2c607f6490,164874,true
+AppleLeaf9,test/good/Health (255).jpg,test,,Apple,good,0,Health (255),447c05ec4e7d2430f666a77169d8bcb9546dad09bfc61b6f488a614a5a932c78,341951,true
+AppleLeaf9,test/good/Health (259).jpg,test,,Apple,good,0,Health (259),7d1c73b7aad9f842eff24964da2a4f5160adc6694cbf813ec99b00f0f544fb09,364665,true
+AppleLeaf9,test/good/Health (270).jpg,test,,Apple,good,0,Health (270),7f7fa8117977f2b1109122c1c72bccb07bbcd644eb29540ef6001cd5cd092cac,344402,true
+AppleLeaf9,test/good/Health (271).jpg,test,,Apple,good,0,Health (271),5f0fe89ef1dfeef382180c6aba158fb8db729628bd53f980b1ba4c11a9a1a82e,194959,true
+AppleLeaf9,test/good/Health (278).jpg,test,,Apple,good,0,Health (278),d4d2b6b98764dbc154230e5df73a329ded74fd919d11d8b5bec2bd5428f1062f,313929,true
+AppleLeaf9,test/good/Health (284).jpg,test,,Apple,good,0,Health (284),0691ffd4e09f5a968bf01cca4973d06b0a16218dcad471dcc9c4cd894330d661,284988,true
+AppleLeaf9,test/good/Health (303).jpg,test,,Apple,good,0,Health (303),883e73c4309a2e1561b82b59184819f81311d7645b52ca574a6224e85943308a,226214,true
+AppleLeaf9,test/good/Health (31).jpg,test,,Apple,good,0,Health (31),e8e1221af4d3eabad9c8a866d7e1fcf4b7cb3a0bf26882eeee0ce54e6203c25b,150566,true
+AppleLeaf9,test/good/Health (312).jpg,test,,Apple,good,0,Health (312),9768424e0a840cfc326fa1b45427765dc3ac31506b14a4349c23e82c8b67fb2c,295066,true
+AppleLeaf9,test/good/Health (329).jpg,test,,Apple,good,0,Health (329),0aca01ab82a6bd7f396c22e5e014211461ed2d0a25df1bc325c3c6d036379aff,196126,true
+AppleLeaf9,test/good/Health (332).jpg,test,,Apple,good,0,Health (332),8c37c5f5d33bf9b3ac893ee61da2819a149aa84e3718588704fb3396c098d996,252868,true
+AppleLeaf9,test/good/Health (336).jpg,test,,Apple,good,0,Health (336),be9341a36d7db68224e62f36cd22f0b68874f75fb21276caddd932c4599ba884,226790,true
+AppleLeaf9,test/good/Health (337).jpg,test,,Apple,good,0,Health (337),6a860aef8ad0241f66052bc511897ccc1aea607d12f7572179a8605e43c86530,263379,true
+AppleLeaf9,test/good/Health (338).jpg,test,,Apple,good,0,Health (338),1f2e491516e0a0f82748cd7e67dc5235a6b60d06d95febe1ae50cd6da7545959,156521,true
+AppleLeaf9,test/good/Health (351).jpg,test,,Apple,good,0,Health (351),b176e8d29c87a8de5c685ea0afdfc6bd4acc004779986e33c857d05465663c3e,166825,true
+AppleLeaf9,test/good/Health (354).jpg,test,,Apple,good,0,Health (354),d824a73b6063cad09c46e873cfd2e5c71da423ef20637ff6a7801167243171e3,304266,true
+AppleLeaf9,test/good/Health (355).jpg,test,,Apple,good,0,Health (355),2dc70b464b3a073684bb83070406cb3302413ec557012eb3d5f24a647c0026f0,190582,true
+AppleLeaf9,test/good/Health (360).jpg,test,,Apple,good,0,Health (360),085e1e3c4c50eefcb36110d4a7b520533781eef31a0c9af0e0d67fc2257b087e,217882,true
+AppleLeaf9,test/good/Health (363).jpg,test,,Apple,good,0,Health (363),e7ab4c6ecafca5c434ca4dc74edc195da6c0ac509dcbd85967326d1bb40200c3,231735,true
+AppleLeaf9,test/good/Health (366).jpg,test,,Apple,good,0,Health (366),3831e9dc292b360a3e458a3c1c3c86f4c0ec66dc9240b94c6d3081610e67319e,346949,true
+AppleLeaf9,test/good/Health (375).jpg,test,,Apple,good,0,Health (375),d1fd531a29c820605873864c66738738b11d9b29361715549a5221f5e78aec63,221050,true
+AppleLeaf9,test/good/Health (379).jpg,test,,Apple,good,0,Health (379),cb0615869d5311b7d5c2f46ad5cd0457e3070c7e9f4d84cded5053f68a05c5bb,497128,true
+AppleLeaf9,test/good/Health (38).jpg,test,,Apple,good,0,Health (38),b82159abcae53bb47f52e69cb85f00020772b887b2ad58823ee73c50874def25,267739,true
+AppleLeaf9,test/good/Health (39).jpg,test,,Apple,good,0,Health (39),b47a72272e64464f90b692bf4c72c669ab7c8ad19d04e69c3beeae0ad5e92193,175894,true
+AppleLeaf9,test/good/Health (396).jpg,test,,Apple,good,0,Health (396),cacd6aa79e2f9beee483a84f3e2d1dd95b757753cdff47869720328616fc6690,142812,true
+AppleLeaf9,test/good/Health (397).jpg,test,,Apple,good,0,Health (397),fb10b27d3f1a7ea6e8cf07c31e70006a5705d899e0f8e302690e5b53262553a3,264750,true
+AppleLeaf9,test/good/Health (406).jpg,test,,Apple,good,0,Health (406),34499c19f7b8b6b6200aca455a9e377e34487cdf01a8cf1185871053d1c1ebc1,378360,true
+AppleLeaf9,test/good/Health (414).jpg,test,,Apple,good,0,Health (414),5f70352c91505155f755b46c67c1b645097747b137a9ec86d58f4605631f3385,371460,true
+AppleLeaf9,test/good/Health (419).jpg,test,,Apple,good,0,Health (419),f7cfda67d6a0d25a1faff93c3219dfc37570c7dd867a9af939ada4aac28b6ed6,187370,true
+AppleLeaf9,test/good/Health (429).jpg,test,,Apple,good,0,Health (429),ccd2bfc83c537c589c5f576e049fb31c8b795fd513467bdd378afb28e96b1d70,214868,true
+AppleLeaf9,test/good/Health (431).jpg,test,,Apple,good,0,Health (431),22367be8dba37c5db5f8b7c9709d22b49544d3e340935db2c22abcc7747ed38f,165947,true
+AppleLeaf9,test/good/Health (442).jpg,test,,Apple,good,0,Health (442),adcf845794e71f9a35516e5bd64dd3263c0717d35587247ea4d4d75661242265,344786,true
+AppleLeaf9,test/good/Health (457).jpg,test,,Apple,good,0,Health (457),002605ddcabc78f2d2076daab7c1d03ab97ab926605a54acc7d7b25a9bfb208b,179019,true
+AppleLeaf9,test/good/Health (460).jpg,test,,Apple,good,0,Health (460),e8cf087abd8ce872ef12e166768d8d7e3a8a36397b61152af229c2bb66b1a551,525678,true
+AppleLeaf9,test/good/Health (466).jpg,test,,Apple,good,0,Health (466),322f10dc3e8e294f123ed095bd7010dde03ce3263ea7d9d8fd61d6374144f35d,216485,true
+AppleLeaf9,test/good/Health (480).jpg,test,,Apple,good,0,Health (480),1001c7693c6826fb09ac242a03f42ea473422f577196eced5664b783f6eecc3e,352935,true
+AppleLeaf9,test/good/Health (487).jpg,test,,Apple,good,0,Health (487),4d0e786286ed8608fc3dcec046ccc4791c5682e24295832f19c5826baddca896,200280,true
+AppleLeaf9,test/good/Health (496).jpg,test,,Apple,good,0,Health (496),9774dfef1eebc0e4f650ed3b373a42a47a933108359d583bba97b3a6de4fbda1,350668,true
+AppleLeaf9,test/good/Health (501).jpg,test,,Apple,good,0,Health (501),e83b19451b929c8aff0525cf3236a49f0e1b5463bff56770e0097ebb0668a752,172814,true
+AppleLeaf9,test/good/Health (505).jpg,test,,Apple,good,0,Health (505),badad3dc1460ce1671e03ce327fcb39fbf6b7d38ceabf86097b00d9df46afae0,218147,true
+AppleLeaf9,test/good/Health (51).jpg,test,,Apple,good,0,Health (51),cf7bb07687572669eb810e924cc9ab4e0e834cdc8203d4a8708f74f67eb5e658,360892,true
+AppleLeaf9,test/good/Health (511).jpg,test,,Apple,good,0,Health (511),90cfc1f90e3f240b1adc49690a40095f549e0e3efb1e2d9653ca59cb4eeb7a87,236312,true
+AppleLeaf9,test/good/Health (52).jpg,test,,Apple,good,0,Health (52),a0695a3453bcb57d177cfc4dec2b2d68e9596a89bfe173bd1611d74939e4b843,284000,true
+AppleLeaf9,test/good/Health (58).jpg,test,,Apple,good,0,Health (58),21b8380456aaa201c7aabd3e6e7c78bbd6e6e001101d168d29ab01bcadedf64b,293546,true
+AppleLeaf9,test/good/Health (72).jpg,test,,Apple,good,0,Health (72),6cb1e2ce72e84afb3b571f21a94ef43038b9723d9eb301d59ff7af2bfbe9014e,200624,true
+AppleLeaf9,test/good/Health (76).jpg,test,,Apple,good,0,Health (76),dbe48f25aa903e3de5b265321e475f4b8e616c38ab862157f3f15d221315e8ca,190386,true
+AppleLeaf9,test/good/Health (77).jpg,test,,Apple,good,0,Health (77),cafb940746d8b92db3cd992b826f85a403aee0165c003faed464194931e571ac,339198,true
+AppleLeaf9,test/good/Health (89).jpg,test,,Apple,good,0,Health (89),8c350a14f21513209d69c38ab9b84de175e36e5f2020d03797d3cd882bfc0f5c,173386,true
+AppleLeaf9,test/good/Health (98).jpg,test,,Apple,good,0,Health (98),08d5b69c8d18eccab7e4c4f33ee353833ba95c9fcb619fa2a4c2fa49e4f0e9a4,181356,true
+AppleLeaf9,train_16/good/Health (107).jpg,train,16,Apple,healthy,0,Health (107),49f2f3c42dad3e32371c112032d8d9ccc38d8a7be1a85e835fc856c28a206576,307171,true
+AppleLeaf9,train_16/good/Health (112).jpg,train,16,Apple,healthy,0,Health (112),9182037726004b166ad8a643a3162063f58eb2901fd116a180d42f6184af3534,188314,true
+AppleLeaf9,train_16/good/Health (144).jpg,train,16,Apple,healthy,0,Health (144),711a6bd62aa40840b3365dac8f47654b5827c0b6511d973614b87946e22c836b,171552,true
+AppleLeaf9,train_16/good/Health (154).jpg,train,16,Apple,healthy,0,Health (154),c5ddf135b9c97edfd21429cc00e38329af7b5822f4b76087ff64cdaf83bfbd02,213602,true
+AppleLeaf9,train_16/good/Health (157).jpg,train,16,Apple,healthy,0,Health (157),d4c88ffd64e088c1f8cb783b4974bc394b95b3130a9cd04dbee6d649b691d650,360355,true
+AppleLeaf9,train_16/good/Health (204).jpg,train,16,Apple,healthy,0,Health (204),a715b4cfc1410cceb8b5681eefaf0508eaec2a8ea38429f1d2e4b651cc22bb3c,174796,true
+AppleLeaf9,train_16/good/Health (267).jpg,train,16,Apple,healthy,0,Health (267),9fb485dda7511230e827085f890c06cc85a08800ea6534b060954134f10a74a7,159510,true
+AppleLeaf9,train_16/good/Health (301).jpg,train,16,Apple,healthy,0,Health (301),a97ef088c521153d0aa0d8ffdcc24a6b8b81068da0d0ab9a7c4ea8c9e03acee4,158387,true
+AppleLeaf9,train_16/good/Health (32).jpg,train,16,Apple,healthy,0,Health (32),cd8e892fa535e065bbcd82a5b8a46349829f1848032888735b94e1b80e4976ed,191875,true
+AppleLeaf9,train_16/good/Health (342).jpg,train,16,Apple,healthy,0,Health (342),a901ef782e2acc01df1aa37a55d766b8dad261cbf8721a3f1f346000ee9f679a,185543,true
+AppleLeaf9,train_16/good/Health (37).jpg,train,16,Apple,healthy,0,Health (37),702fd5f2a9d0f41570291a1a314705330a9ec99efb97d2ca18ee864f878439b0,310679,true
+AppleLeaf9,train_16/good/Health (383).jpg,train,16,Apple,healthy,0,Health (383),4b4c72c33d3603d692c93f7b7ee8addea62deea7bf105e302708a98adabbbb19,157342,true
+AppleLeaf9,train_16/good/Health (418).jpg,train,16,Apple,healthy,0,Health (418),c7393a01f1692a1bc4bec15e0b856e117db29e34cd090d6b6827c07fce9ac063,160655,true
+AppleLeaf9,train_16/good/Health (69).jpg,train,16,Apple,healthy,0,Health (69),aa51cc7914019f61f495be611f252052c2d6604c93facf31a36e951cd4aff297,315905,true
+AppleLeaf9,train_16/good/Health (91).jpg,train,16,Apple,healthy,0,Health (91),afda045e50dc7e3c47d73a6260bc3777008db93eeba75c5ebedbe93aef81ccf1,159133,true
+AppleLeaf9,train_16/good/Health (93).jpg,train,16,Apple,healthy,0,Health (93),827b54402b9c3a2f2542d49d714bf981aa77335f8e442db89268a0419b165928,162988,true
+AppleLeaf9,train_2/good/Health (180).jpg,train,2,Apple,healthy,0,Health (180),34015f6fa0ae90a17dc5154c6e318738bf115acc11f492109ea611086b8c3e39,210982,true
+AppleLeaf9,train_2/good/Health (198).jpg,train,2,Apple,healthy,0,Health (198),aeb47e7133d807973a0603f87d17dbf817f2b7de0b516acc51093e17dbf9a216,197720,true
+AppleLeaf9,train_4/good/Health (377).jpg,train,4,Apple,healthy,0,Health (377),f9a0db0cf91c34dc2c5e4e040c7239aea63cd749255c2cab4b52167d30df88bb,351884,true
+AppleLeaf9,train_4/good/Health (44).jpg,train,4,Apple,healthy,0,Health (44),77a9c37a53169387c748666407d7731b2b8183b20cb428a3e64e64e93ad1b80f,254485,true
+AppleLeaf9,train_4/good/Health (440).jpg,train,4,Apple,healthy,0,Health (440),c1099be0341f52bb0aaed75bd775f635fd87a7148c8c01e8a8a3c00e57af8f8b,195246,true
+AppleLeaf9,train_4/good/Health (489).jpg,train,4,Apple,healthy,0,Health (489),97aac4c01ac618623a805ade817e7f25d48fa34478b8f9c2f86386c88ad87077,204551,true
+AppleLeaf9,train_8/good/Health (342).jpg,train,8,Apple,healthy,0,Health (342),a901ef782e2acc01df1aa37a55d766b8dad261cbf8721a3f1f346000ee9f679a,185543,true
+AppleLeaf9,train_8/good/Health (383).jpg,train,8,Apple,healthy,0,Health (383),4b4c72c33d3603d692c93f7b7ee8addea62deea7bf105e302708a98adabbbb19,157342,true
+AppleLeaf9,train_8/good/Health (404).jpg,train,8,Apple,healthy,0,Health (404),deb2b3e40f69d7dbdfd39c0419782ae161ff41ba5e7b61cd76be74fc2c66b1de,259652,true
+AppleLeaf9,train_8/good/Health (418).jpg,train,8,Apple,healthy,0,Health (418),c7393a01f1692a1bc4bec15e0b856e117db29e34cd090d6b6827c07fce9ac063,160655,true
+AppleLeaf9,train_8/good/Health (427).jpg,train,8,Apple,healthy,0,Health (427),351661813a6581c74b8fe0cf690eaf3e7dde5ee3798ef6372ede8ff37fa982d1,197719,true
+AppleLeaf9,train_8/good/Health (449).jpg,train,8,Apple,healthy,0,Health (449),6817066c1c1b46e7d5210772637b0e53e13b77c0eca06b428fc9f73b625a8347,334871,true
+AppleLeaf9,train_8/good/Health (489).jpg,train,8,Apple,healthy,0,Health (489),97aac4c01ac618623a805ade817e7f25d48fa34478b8f9c2f86386c88ad87077,204551,true
+AppleLeaf9,train_8/good/Health (91).jpg,train,8,Apple,healthy,0,Health (91),afda045e50dc7e3c47d73a6260bc3777008db93eeba75c5ebedbe93aef81ccf1,159133,true

@@ -1,0 +1,14 @@
+split,shot,crop,category,binary_label,count
+test,,Apple,Alternaria leaf spot,1,30
+test,,Apple,Brown spot,1,30
+test,,Apple,Frogeye leaf spot,1,30
+test,,Apple,Grey spot,1,30
+test,,Apple,Mosaic,1,30
+test,,Apple,Powdery mildew,1,30
+test,,Apple,Rust,1,30
+test,,Apple,Scab,1,30
+test,,Apple,good,0,80
+train,16,Apple,healthy,0,16
+train,2,Apple,healthy,0,2
+train,4,Apple,healthy,0,4
+train,8,Apple,healthy,0,8

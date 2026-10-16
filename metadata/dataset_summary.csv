@@ -1,0 +1,5 @@
+dataset,training_2,training_4,training_8,training_16,test_normal,test_anomaly,test_total,images_in_repository,total_selected_images,total_bytes,duplicate_hash_groups,cross_shot_overlap_hashes,train_test_overlap_hashes,conflicting_binary_label_hashes
+PlantVillage,18,36,72,144,270,720,990,True,1260,20622548,0,0,0,0
+AppleLeaf9,2,4,8,16,80,240,320,True,350,40969952,5,5,0,0
+PlantCity,22,44,88,176,2278,4120,6398,True,6728,737538301,35,0,0,0
+PlantPathology,2,4,8,16,462,462,924,False,954,819922532,0,0,0,0

@@ -1,0 +1,24 @@
+{
+  "dataset": "PlantCity",
+  "total_selected_images": 6728,
+  "training_counts_by_shot": {
+    "2": 22,
+    "4": 44,
+    "8": 88,
+    "16": 176
+  },
+  "test_normal": 2278,
+  "test_anomaly": 4120,
+  "test_total": 6398,
+  "images_in_repository": true,
+  "total_bytes": 737538301,
+  "manifest_hash_algorithm": "SHA-256",
+  "integrity": {
+    "unique_sha256": 6693,
+    "duplicate_hash_groups": 35,
+    "duplicate_rows_beyond_first": 35,
+    "cross_shot_overlap_hashes": 0,
+    "train_test_overlap_hashes": 0,
+    "conflicting_binary_label_hashes": 0
+  }
+}

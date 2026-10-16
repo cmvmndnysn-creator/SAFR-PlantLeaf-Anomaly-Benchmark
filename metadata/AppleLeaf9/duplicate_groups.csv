@@ -1,0 +1,6 @@
+sha256,occurrences,splits,shots,binary_labels,relative_paths
+4b4c72c33d3603d692c93f7b7ee8addea62deea7bf105e302708a98adabbbb19,2,train,8;16,0,train_16/good/Health (383).jpg;train_8/good/Health (383).jpg
+97aac4c01ac618623a805ade817e7f25d48fa34478b8f9c2f86386c88ad87077,2,train,4;8,0,train_4/good/Health (489).jpg;train_8/good/Health (489).jpg
+a901ef782e2acc01df1aa37a55d766b8dad261cbf8721a3f1f346000ee9f679a,2,train,8;16,0,train_16/good/Health (342).jpg;train_8/good/Health (342).jpg
+afda045e50dc7e3c47d73a6260bc3777008db93eeba75c5ebedbe93aef81ccf1,2,train,8;16,0,train_16/good/Health (91).jpg;train_8/good/Health (91).jpg
+c7393a01f1692a1bc4bec15e0b856e117db29e34cd090d6b6827c07fce9ac063,2,train,8;16,0,train_16/good/Health (418).jpg;train_8/good/Health (418).jpg

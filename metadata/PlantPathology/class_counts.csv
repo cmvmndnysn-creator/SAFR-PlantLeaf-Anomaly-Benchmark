@@ -1,0 +1,17 @@
+split,shot,crop,category,binary_label,count
+test,,Apple,complex,0,77
+test,,Apple,complex,1,77
+test,,Apple,frog_eye_leaf_spot,0,77
+test,,Apple,frog_eye_leaf_spot,1,77
+test,,Apple,multiple_diseases,0,77
+test,,Apple,multiple_diseases,1,77
+test,,Apple,powdery_mildew,0,77
+test,,Apple,powdery_mildew,1,77
+test,,Apple,rust,0,77
+test,,Apple,rust,1,77
+test,,Apple,scab,0,77
+test,,Apple,scab,1,77
+train,16,Apple,healthy,0,16
+train,2,Apple,healthy,0,2
+train,4,Apple,healthy,0,4
+train,8,Apple,healthy,0,8

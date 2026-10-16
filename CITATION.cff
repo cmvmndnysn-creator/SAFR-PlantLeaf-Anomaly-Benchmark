@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, cite this dataset and the original datasets listed in THIRD_PARTY_NOTICES.md."
+title: "SAFR Plant Leaf Anomaly Detection Benchmark"
+type: dataset
+version: "1.0.0"
+authors:
+  - family-names: Xue
+    given-names: Jianxin
+  - family-names: Wu
+    given-names: Shuqiao
+  - family-names: Fuentes
+    given-names: Alvaro
+  - family-names: Li
+    given-names: Zixin
+  - family-names: Wang
+    given-names: Qingqing
+  - family-names: Zhou
+    given-names: Chenyan
+  - family-names: Dong
+    given-names: Jiuqing
+preferred-citation:
+  type: article
+  title: "Few-Shot Plant Leaf Anomaly Detection via Structure-Aware Feature Reconstruction"
+  year: 2026
+  authors:
+    - family-names: Xue
+      given-names: Jianxin
+    - family-names: Wu
+      given-names: Shuqiao
+    - family-names: Fuentes
+      given-names: Alvaro
+    - family-names: Li
+      given-names: Zixin
+    - family-names: Wang
+      given-names: Qingqing
+    - family-names: Zhou
+      given-names: Chenyan
+    - family-names: Dong
+      given-names: Jiuqing
+

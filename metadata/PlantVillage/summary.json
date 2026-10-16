@@ -1,0 +1,24 @@
+{
+  "dataset": "PlantVillage",
+  "total_selected_images": 1260,
+  "training_counts_by_shot": {
+    "2": 18,
+    "4": 36,
+    "8": 72,
+    "16": 144
+  },
+  "test_normal": 270,
+  "test_anomaly": 720,
+  "test_total": 990,
+  "images_in_repository": true,
+  "total_bytes": 20622548,
+  "manifest_hash_algorithm": "SHA-256",
+  "integrity": {
+    "unique_sha256": 1260,
+    "duplicate_hash_groups": 0,
+    "duplicate_rows_beyond_first": 0,
+    "cross_shot_overlap_hashes": 0,
+    "train_test_overlap_hashes": 0,
+    "conflicting_binary_label_hashes": 0
+  }
+}

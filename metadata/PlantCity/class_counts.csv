@@ -1,0 +1,96 @@
+split,shot,crop,category,binary_label,count
+test,,Apple,Apple Brown_spot,1,133
+test,,Apple,Apple black_spot,1,51
+test,,Apple,good,0,206
+test,,Apricot,Apricot blight leaf disease,1,45
+test,,Apricot,Apricot shot_hole,1,104
+test,,Apricot,good,0,163
+test,,Bean,Bean Fungal_leaf disease,1,97
+test,,Bean,Bean bean rust image,1,62
+test,,Bean,Bean shot_hole,1,49
+test,,Bean,good,0,223
+test,,Cherry,Cherry Leaf Scorch,1,141
+test,,Cherry,Cherry brown_spot,1,121
+test,,Cherry,Cherry purple leaf spot,1,120
+test,,Cherry,Cherry_shot hole disease,1,55
+test,,Cherry,good,0,124
+test,,Corn,Corn Fungal leaf,1,42
+test,,Corn,Corn gray leaf spot,1,66
+test,,Corn,Corn holcus_ leaf spot,1,54
+test,,Corn,good,0,142
+test,,Fig,Fig Blight_leaf disease,1,96
+test,,Fig,Fig Brown spot,1,54
+test,,Fig,Fig_rust leaf,1,63
+test,,Fig,good,0,150
+test,,Grape,Grape Anthracnose leaf,1,125
+test,,Grape,Grape Brown spot leaf,1,80
+test,,Grape,Grape Downy mildew leaf,1,78
+test,,Grape,Grape Mites_leaf disease,1,63
+test,,Grape,Grape Powdery_mildew leaf,1,151
+test,,Grape,Grape shot hole leaf disease,1,107
+test,,Grape,good,0,372
+test,,Lokat,good,0,129
+test,,Lokat,lokat Leaf_spot,1,99
+test,,Pear,Pear Black spot _ leaf disease,1,113
+test,,Pear,Pear fire blight,1,48
+test,,Pear,good,0,191
+test,,Tomato,good,0,400
+test,,Tomato,tomato Fusarium Wilt,1,45
+test,,Tomato,tomato spider mites,1,64
+test,,Tomato,tomato verticillium wilt,1,53
+test,,Tomato,tomato_bacterial_spot,1,200
+test,,Tomato,tomato_early_blight,1,200
+test,,Tomato,tomato_late_blight,1,147
+test,,Tomato,tomato_leaf_curl,1,207
+test,,Tomato,tomato_leaf_miner,1,200
+test,,Tomato,tomato_leaf_mold,1,200
+test,,Tomato,tomato_septoria_leaf,1,171
+test,,Walnut,Walnut Anthracnose_leaf disease,1,81
+test,,Walnut,Walnut Blotch_leaf disease,1,170
+test,,Walnut,Walnut Shot_hole,1,116
+test,,Walnut,Walnut leaf gall mite,1,49
+test,,Walnut,good,0,178
+train,16,Apple,healthy,0,16
+train,16,Apricot,healthy,0,16
+train,16,Bean,healthy,0,16
+train,16,Cherry,healthy,0,16
+train,16,Corn,healthy,0,16
+train,16,Fig,healthy,0,16
+train,16,Grape,healthy,0,16
+train,16,Lokat,healthy,0,16
+train,16,Pear,healthy,0,16
+train,16,Tomato,healthy,0,16
+train,16,Walnut,healthy,0,16
+train,2,Apple,healthy,0,2
+train,2,Apricot,healthy,0,2
+train,2,Bean,healthy,0,2
+train,2,Cherry,healthy,0,2
+train,2,Corn,healthy,0,2
+train,2,Fig,healthy,0,2
+train,2,Grape,healthy,0,2
+train,2,Lokat,healthy,0,2
+train,2,Pear,healthy,0,2
+train,2,Tomato,healthy,0,2
+train,2,Walnut,healthy,0,2
+train,4,Apple,healthy,0,4
+train,4,Apricot,healthy,0,4
+train,4,Bean,healthy,0,4
+train,4,Cherry,healthy,0,4
+train,4,Corn,healthy,0,4
+train,4,Fig,healthy,0,4
+train,4,Grape,healthy,0,4
+train,4,Lokat,healthy,0,4
+train,4,Pear,healthy,0,4
+train,4,Tomato,healthy,0,4
+train,4,Walnut,healthy,0,4
+train,8,Apple,healthy,0,8
+train,8,Apricot,healthy,0,8
+train,8,Bean,healthy,0,8
+train,8,Cherry,healthy,0,8
+train,8,Corn,healthy,0,8
+train,8,Fig,healthy,0,8
+train,8,Grape,healthy,0,8
+train,8,Lokat,healthy,0,8
+train,8,Pear,healthy,0,8
+train,8,Tomato,healthy,0,8
+train,8,Walnut,healthy,0,8

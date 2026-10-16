@@ -1,0 +1,59 @@
+{
+  "seed": 20210724,
+  "source_rows": 18632,
+  "source_unique_sha256": 18605,
+  "duplicate_rows_excluded": 27,
+  "cross_split_duplicate_hashes": 3,
+  "training_protocol": {
+    "shots": [
+      2,
+      4,
+      8,
+      16
+    ],
+    "mutually_disjoint": true,
+    "source_split": "train"
+  },
+  "testing_protocol": {
+    "source_split": "validation",
+    "categories": {
+      "complex": {
+        "good": 77,
+        "test": 77
+      },
+      "frog_eye_leaf_spot": {
+        "good": 77,
+        "test": 77
+      },
+      "multiple_diseases": {
+        "good": 77,
+        "test": 77
+      },
+      "powdery_mildew": {
+        "good": 77,
+        "test": 77
+      },
+      "rust": {
+        "good": 77,
+        "test": 77
+      },
+      "scab": {
+        "good": 77,
+        "test": 77
+      }
+    },
+    "multi_label_mapping": "multiple_diseases",
+    "good_sets_are_mutually_disjoint": true
+  },
+  "integrity": {
+    "train_files": 30,
+    "test_files": 924,
+    "train_unique_sha256": 30,
+    "test_unique_sha256": 924,
+    "train_test_shared_sha256": 0,
+    "duplicate_sha256_across_target": 0,
+    "duplicate_basenames_across_target": 0,
+    "actual_hash_mismatches": [],
+    "shot_sets_are_mutually_disjoint": true
+  }
+}

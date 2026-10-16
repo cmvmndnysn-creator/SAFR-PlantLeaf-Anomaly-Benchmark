@@ -1,0 +1,390 @@
+{
+  "seed": 0,
+  "test_images_per_category": 30,
+  "selection": "per-species deterministic random selection; mutually disjoint shot splits",
+  "species": [
+    "Apple",
+    "Cherry",
+    "Corn",
+    "Grape",
+    "Peach",
+    "Pepper",
+    "Potato",
+    "Strawberry",
+    "Tomato"
+  ],
+  "num_species": 9,
+  "training_counts": {
+    "train_2": 18,
+    "train_4": 36,
+    "train_8": 72,
+    "train_16": 144
+  },
+  "training_audit": {
+    "Apple": {
+      "source_train_files": 1435,
+      "source_train_unique_hashes": 1430,
+      "source_train_internal_duplicates": 5,
+      "excluded_due_to_any_test_hash": 1,
+      "eligible_unique_train_hashes": 1429,
+      "selected_across_independent_splits": 30
+    },
+    "Cherry": {
+      "source_train_files": 804,
+      "source_train_unique_hashes": 804,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 804,
+      "selected_across_independent_splits": 30
+    },
+    "Corn": {
+      "source_train_files": 1100,
+      "source_train_unique_hashes": 1100,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 1100,
+      "selected_across_independent_splits": 30
+    },
+    "Grape": {
+      "source_train_files": 400,
+      "source_train_unique_hashes": 400,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 400,
+      "selected_across_independent_splits": 30
+    },
+    "Peach": {
+      "source_train_files": 330,
+      "source_train_unique_hashes": 330,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 330,
+      "selected_across_independent_splits": 30
+    },
+    "Pepper": {
+      "source_train_files": 1428,
+      "source_train_unique_hashes": 1428,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 1428,
+      "selected_across_independent_splits": 30
+    },
+    "Potato": {
+      "source_train_files": 140,
+      "source_train_unique_hashes": 140,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 140,
+      "selected_across_independent_splits": 30
+    },
+    "Strawberry": {
+      "source_train_files": 431,
+      "source_train_unique_hashes": 431,
+      "source_train_internal_duplicates": 0,
+      "excluded_due_to_any_test_hash": 0,
+      "eligible_unique_train_hashes": 431,
+      "selected_across_independent_splits": 30
+    },
+    "Tomato": {
+      "source_train_files": 1591,
+      "source_train_unique_hashes": 1585,
+      "source_train_internal_duplicates": 6,
+      "excluded_due_to_any_test_hash": 50,
+      "eligible_unique_train_hashes": 1535,
+      "selected_across_independent_splits": 30
+    }
+  },
+  "test_selection_audit": {
+    "Apple": {
+      "Apple___Apple_scab": {
+        "deduplicated_source_test_candidates": 630,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Apple___Black_rot": {
+        "deduplicated_source_test_candidates": 621,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Apple___Cedar_apple_rust": {
+        "deduplicated_source_test_candidates": 275,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 209,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      }
+    },
+    "Cherry": {
+      "Cherry_(including_sour)___Powdery_mildew": {
+        "deduplicated_source_test_candidates": 1052,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 50,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      }
+    },
+    "Corn": {
+      "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "deduplicated_source_test_candidates": 513,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Corn_(maize)___Common_rust_": {
+        "deduplicated_source_test_candidates": 1192,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Corn_(maize)___Northern_Leaf_Blight": {
+        "deduplicated_source_test_candidates": 985,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 62,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      }
+    },
+    "Grape": {
+      "Grape___Black_rot": {
+        "deduplicated_source_test_candidates": 1180,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Grape___Esca_(Black_Measles)": {
+        "deduplicated_source_test_candidates": 1383,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "deduplicated_source_test_candidates": 1076,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 23,
+        "selected": 30,
+        "shortfall_below_requested_count": 0,
+        "supplemented_from_limit_data_train_good": 7
+      }
+    },
+    "Peach": {
+      "Peach___Bacterial_spot": {
+        "deduplicated_source_test_candidates": 2297,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 30,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      }
+    },
+    "Pepper": {
+      "Pepper,_bell___Bacterial_spot": {
+        "deduplicated_source_test_candidates": 997,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 50,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      }
+    },
+    "Potato": {
+      "Potato___Early_blight": {
+        "deduplicated_source_test_candidates": 1000,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Potato___Late_blight": {
+        "deduplicated_source_test_candidates": 1000,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 12,
+        "selected": 30,
+        "shortfall_below_requested_count": 0,
+        "supplemented_from_limit_data_train_good": 18
+      }
+    },
+    "Strawberry": {
+      "Strawberry___Leaf_scorch": {
+        "deduplicated_source_test_candidates": 1109,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 25,
+        "selected": 30,
+        "shortfall_below_requested_count": 0,
+        "supplemented_from_limit_data_train_good": 5
+      }
+    },
+    "Tomato": {
+      "Tomato___Bacterial_spot": {
+        "deduplicated_source_test_candidates": 2127,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Early_blight": {
+        "deduplicated_source_test_candidates": 1000,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Late_blight": {
+        "deduplicated_source_test_candidates": 1901,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Leaf_Mold": {
+        "deduplicated_source_test_candidates": 952,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Septoria_leaf_spot": {
+        "deduplicated_source_test_candidates": 1771,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "deduplicated_source_test_candidates": 1676,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Target_Spot": {
+        "deduplicated_source_test_candidates": 1404,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "deduplicated_source_test_candidates": 5357,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "Tomato___Tomato_mosaic_virus": {
+        "deduplicated_source_test_candidates": 373,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      },
+      "good": {
+        "deduplicated_source_test_candidates": 50,
+        "selected": 30,
+        "shortfall_below_requested_count": 0
+      }
+    }
+  },
+  "test_counts_by_species": {
+    "Apple": {
+      "normal": 30,
+      "anomaly": 90
+    },
+    "Cherry": {
+      "normal": 30,
+      "anomaly": 30
+    },
+    "Corn": {
+      "normal": 30,
+      "anomaly": 90
+    },
+    "Grape": {
+      "normal": 30,
+      "anomaly": 90
+    },
+    "Peach": {
+      "normal": 30,
+      "anomaly": 30
+    },
+    "Pepper": {
+      "normal": 30,
+      "anomaly": 30
+    },
+    "Potato": {
+      "normal": 30,
+      "anomaly": 60
+    },
+    "Strawberry": {
+      "normal": 30,
+      "anomaly": 30
+    },
+    "Tomato": {
+      "normal": 30,
+      "anomaly": 270
+    }
+  },
+  "test_normal": 270,
+  "test_anomaly": 720,
+  "test_total": 990,
+  "source_test_same_label_duplicates_excluded": 9,
+  "source_test_label_conflict_records_excluded": 0,
+  "source_test_counts_before_deduplication": {
+    "Apple": {
+      "Apple___Apple_scab": 630,
+      "Apple___Black_rot": 621,
+      "Apple___Cedar_apple_rust": 275,
+      "good": 210
+    },
+    "Cherry": {
+      "Cherry_(including_sour)___Powdery_mildew": 1052,
+      "good": 50
+    },
+    "Corn": {
+      "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": 513,
+      "Corn_(maize)___Common_rust_": 1192,
+      "Corn_(maize)___Northern_Leaf_Blight": 985,
+      "good": 62
+    },
+    "Grape": {
+      "Grape___Black_rot": 1180,
+      "Grape___Esca_(Black_Measles)": 1383,
+      "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": 1076,
+      "good": 23
+    },
+    "Peach": {
+      "Peach___Bacterial_spot": 2297,
+      "good": 30
+    },
+    "Pepper": {
+      "Pepper,_bell___Bacterial_spot": 997,
+      "good": 50
+    },
+    "Potato": {
+      "Potato___Early_blight": 1000,
+      "Potato___Late_blight": 1000,
+      "good": 12
+    },
+    "Strawberry": {
+      "Strawberry___Leaf_scorch": 1109,
+      "good": 25
+    },
+    "Tomato": {
+      "Tomato___Bacterial_spot": 2127,
+      "Tomato___Early_blight": 1000,
+      "Tomato___Late_blight": 1909,
+      "Tomato___Leaf_Mold": 952,
+      "Tomato___Septoria_leaf_spot": 1771,
+      "Tomato___Spider_mites Two-spotted_spider_mite": 1676,
+      "Tomato___Target_Spot": 1404,
+      "Tomato___Tomato_Yellow_Leaf_Curl_Virus": 5357,
+      "Tomato___Tomato_mosaic_virus": 373,
+      "good": 50
+    }
+  },
+  "validated": {
+    "unique_hashes_within_every_train_split": true,
+    "mutually_disjoint_train_splits": true,
+    "unique_hashes_within_test": true,
+    "zero_train_test_hash_overlap": true,
+    "exactly_k_images_per_species": true,
+    "exactly_30_images_per_test_category": true
+  },
+  "test_good_supplements_added": 30
+}

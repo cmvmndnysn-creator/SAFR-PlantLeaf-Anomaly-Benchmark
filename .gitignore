@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Plant Pathology 2021 images may be reconstructed locally but must not be
+# redistributed through this repository.
+data/PlantPathology/*
+!data/PlantPathology/README.md
+

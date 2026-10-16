@@ -1,0 +1,24 @@
+{
+  "dataset": "PlantPathology",
+  "total_selected_images": 954,
+  "training_counts_by_shot": {
+    "2": 2,
+    "4": 4,
+    "8": 8,
+    "16": 16
+  },
+  "test_normal": 462,
+  "test_anomaly": 462,
+  "test_total": 924,
+  "images_in_repository": false,
+  "total_bytes": 819922532,
+  "manifest_hash_algorithm": "SHA-256",
+  "integrity": {
+    "unique_sha256": 954,
+    "duplicate_hash_groups": 0,
+    "duplicate_rows_beyond_first": 0,
+    "cross_shot_overlap_hashes": 0,
+    "train_test_overlap_hashes": 0,
+    "conflicting_binary_label_hashes": 0
+  }
+}

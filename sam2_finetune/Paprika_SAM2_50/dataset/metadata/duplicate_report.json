@@ -1,0 +1,6 @@
+{
+  "exact_file_duplicate_groups": [],
+  "exact_decoded_pixel_duplicate_groups": [],
+  "near_duplicate_threshold_phash_hamming_64": 8,
+  "near_duplicate_candidates": []
+}

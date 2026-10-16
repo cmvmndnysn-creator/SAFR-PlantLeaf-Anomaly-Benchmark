@@ -1,0 +1,11 @@
+{
+  "train_files": 30,
+  "test_files": 924,
+  "train_unique_sha256": 30,
+  "test_unique_sha256": 924,
+  "train_test_shared_sha256": 0,
+  "duplicate_sha256_across_target": 0,
+  "duplicate_basenames_across_target": 0,
+  "actual_hash_mismatches": [],
+  "shot_sets_are_mutually_disjoint": true
+}

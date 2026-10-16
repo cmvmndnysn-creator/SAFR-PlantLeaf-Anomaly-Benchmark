@@ -1,0 +1,2 @@
+sha256,removed_relative_path,retained_relative_path,resolution,reason
+d9ec321d68c07b986f345609717e460286c8ca9b28ca284567741b1ca2265026,test/Cherry/test/good/17.jpg,test/Cherry/test/Cherry_shot hole disease/1.jpg,retain_anomaly_remove_good_duplicate,Identical image has a visible shot-hole lesion and is retained under Cherry_shot hole disease
