@@ -110,8 +110,7 @@ python3 scripts/verify_dataset.py --require-plant-pathology
 ## Large-file storage
 
 The image files are configured for Git LFS in `.gitattributes`. Install Git LFS
-before the first `git add` or after cloning this repository. Detailed publishing
-instructions are in `docs/GITHUB_UPLOAD.md`.
+before the first `git add` or after cloning this repository.
 
 ## Sources and licenses
 
